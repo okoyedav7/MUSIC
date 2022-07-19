@@ -16,6 +16,7 @@ body{
 
 .player{
     display: grid;
+     padding: 20px;
     grid-template-columns: 200px 200px;
     grid-gap: 20px;
     justify-content: center;
